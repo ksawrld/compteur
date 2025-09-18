@@ -2,13 +2,14 @@
 {
   "count": 225,
   "thresholds": [
-    {"value": 50,  "label": "Décapsuleur spécial ajouté"},
-    {"value": 100, "label": "—"},
+    {"value": 50,  "label": "Décapsuleur spécial ajouté 😂"},
+    {"value": 100, "label": "Séance de sport avec Coach Gégé 🏋💪"},
     {"value": 200, "label": "Leak de Gégé disco 🪩"},
-    {"value": 300, "label": "Énigmes « Où est Gégé ? »"},
-    {"value": 400, "label": "Interview Konbini de Gégé"},
-    {"value": 500, "label": "Place Astérix ajoutée"},
+    {"value": 300, "label": "Énigmes « Où est Gégé ? 🔎»"},
+    {"value": 400, "label": "Interview Konbini de Gégé 🎥🎤"},
+    {"value": 500, "label": "Place Astérix ajoutée 🎢"},
     {"value": 600, "label": "Événement au choix"},
     {"value": 700, "label": "Grand tournoi inter-groupes ⚽"}
   ]
 }
+
